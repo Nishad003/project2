@@ -1,4 +1,4 @@
 # New project
 
 This project was created from local system.
-created by Nishad Mundel.
+created by Nishad Mundle.
